@@ -1,16 +1,37 @@
 {
+  "id": "/",
   "dir": "ltr",
   "lang": "en",
   "name": "BookBlogArena",
-  "scope": "https://bookblogarena.blogspot.com/",
+  "scope": "/",
   "display": "standalone",
-  "start_url": "https://bookblogarena.blogspot.com/?m=1",
+  "start_url": "/?m=1",
   "short_name": "BBArean",
   "theme_color": "#333333",
   "description": "BookBlogArena, a hub for authors and readers, offers book reviews, author promotions, and writing tips to enhance publishing journeys. As a progressive web app (PWA), it allows users to explore valuable insights on book marketing, self-publishing, and brand-building. With offline access, timely notifications, and smooth navigation, the PWA ensures authors can stay connected to resources, promotional packages, and expert guidance anytime.",
   "orientation": "any",
   "background_color": "#FFFFFF",
   "prefer_related_applications": false,
+  "display_override": [
+    "window-controls-overlay"
+  ],
+  "screenshots": [
+    {
+      "src": "https://ekonet1.github.io/BookBlogArena/BookBlogArena%201.png"
+    },
+    {
+      "src": "https://ekonet1.github.io/BookBlogArena/BookBlogArena%202.png"
+    },
+    {
+      "src": "https://ekonet1.github.io/BookBlogArena/BookBlogArena%203.png"
+    }
+  ],
+  "features": [
+    "Cross Platform",
+    "low-latency inking",
+    "fast",
+    "useful AI"
+  ],
   "icons": [
     {
       "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-192x192.png",
@@ -19,10 +40,46 @@
       "purpose": "any"
     },
     {
+      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
       "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "edge_side_panel": {},
+  "shortcuts": [
+    {
+      "name": "Start Live Session",
+      "short_name": "Start Live",
+      "description": "Jump direction into starting or joining a live session",
+      "url": "/?startLive",
+      "icons": [
+        {
+          "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-256x256.png",
+          "sizes": "256x256"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "books",
+    "business",
+    "finance",
+    "news"
+  ]
 }
