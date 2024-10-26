@@ -29,7 +29,7 @@
   "shortcuts": [
     {
       "name": "Start Live Session",
-      "url": "/?startLive",
+      "url": "https://bookblogarena.blogspot.com/?startLive",
       "icons": [
         {
           "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-256x256.png",
