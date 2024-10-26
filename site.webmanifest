@@ -26,17 +26,4 @@
       "purpose": "any"
     }
   ],
-  "shortcuts": [
-    {
-      "name": "Start Live Session",
-      "url": "https://bookblogarena.blogspot.com/?startLive",
-      "icons": [
-        {
-          "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-256x256.png",
-          "sizes": "256x256"
-        }
-      ]
-    }
-  ],
-  "categories": ["books", "business", "finance", "news"]
 }
