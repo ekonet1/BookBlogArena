@@ -5,9 +5,9 @@
   "name": "BookBlogArena",
   "scope": "/",
   "display": "standalone",
-  "start_url": "/?m=1",
-  "short_name": "BBArean",
-  "theme_color": "#333333",
+  "start_url": "/",
+  "short_name": "BookBlogArena",
+  "theme_color": "#FFFFFF",
   "description": "BookBlogArena, a hub for authors and readers, offers book reviews, author promotions, and writing tips to enhance publishing journeys. As a progressive web app (PWA), it allows users to explore valuable insights on book marketing, self-publishing, and brand-building. With offline access, timely notifications, and smooth navigation, the PWA ensures authors can stay connected to resources, promotional packages, and expert guidance anytime.",
   "orientation": "any",
   "background_color": "#FFFFFF",
@@ -58,6 +58,9 @@
       "purpose": "maskable"
     }
   ],
+  "categories": [
+    "productivity"
+  ],
   "launch_handler": {
     "client_mode": "navigate-existing"
   },
@@ -82,4 +85,3 @@
     "finance",
     "news"
   ]
-}
