@@ -5,7 +5,7 @@
   "name": "BookBlogArena",
   "scope": "/",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "https://bookblogarena.blogspot.com",
   "short_name": "BookBlogArena",
   "theme_color": "#FFFFFF",
   "description": "BookBlogArena, a hub for authors and readers, offers book reviews, author promotions, and writing tips to enhance publishing journeys. As a progressive web app (PWA), it allows users to explore valuable insights on book marketing, self-publishing, and brand-building. With offline access, timely notifications, and smooth navigation, the PWA ensures authors can stay connected to resources, promotional packages, and expert guidance anytime.",
@@ -17,13 +17,13 @@
   ],
   "screenshots": [
     {
-      "src": "https://ekonet1.github.io/BookBlogArena/BookBlogArena%201.png"
+      "src": "/BookBlogArena%201.png"
     },
     {
-      "src": "https://ekonet1.github.io/BookBlogArena/BookBlogArena%202.png"
+      "src": "/BookBlogArena%202.png"
     },
     {
-      "src": "https://ekonet1.github.io/BookBlogArena/BookBlogArena%203.png"
+      "src": "/BookBlogArena%203.png"
     }
   ],
   "features": [
@@ -34,25 +34,25 @@
   ],
   "icons": [
     {
-      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-192x192.png",
+      "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-192x192.png",
+      "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-512x512.png",
+      "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-512x512.png",
+      "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -73,7 +73,7 @@
       "url": "/?startLive",
       "icons": [
         {
-          "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-256x256.png",
+          "src": "/android-chrome-256x256.png",
           "sizes": "256x256"
         }
       ]
