@@ -35,25 +35,25 @@
   ],
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -77,7 +77,7 @@
       "url": "/?startLive",
       "icons": [
         {
-          "src": "/android-chrome-256x256.png",
+          "src": "https://ekonet1.github.io/BookBlogArena/android-chrome-256x256.png",
           "sizes": "256x256"
         }
       ]
