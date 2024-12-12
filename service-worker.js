@@ -3,8 +3,8 @@ self.addEventListener('install', (event) => {
     caches.open('app-cache').then((cache) => {
       return cache.addAll([
         '/',
-        'https://ekonet1.github.io/BookBlogArena/android-chrome-192x192.png',
-        'https://ekonet1.github.io/BookBlogArena/android-chrome-512x512.png',
+        '/android-chrome-192x192.png',
+        '/android-chrome-512x512.png',
         // Add more static assets if needed
       ]);
     })
